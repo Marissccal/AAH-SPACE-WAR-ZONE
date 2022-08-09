@@ -7,7 +7,7 @@ Demo de Video Game de tipo 2D, para juego NFTs de tipo Click to Earn/P2P - Binan
 		Web: https://marissccal.itch.io/space-war-zone
         
 
-- Desarrollo en Unity, con aplicación de lenguajes Javascrypt y Typescrypt.
+- Desarrollo en Unity.
 - Modelado en 2D.
 - Conexión con Blockchain BSC.
 - Desarrollo de Marketplace de NFTs de las naves principales. 
