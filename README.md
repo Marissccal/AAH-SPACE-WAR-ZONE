@@ -23,6 +23,7 @@ Demo de Video Game de tipo 2D, para juego NFTs de tipo Click to Earn/P2P - Binan
     Obtendrá esta página después de iniciar la aplicación. Landing Page: https://marissccal.itch.io/space-war-zone
     
     PreSale Publica: https://www.pinksale.finance/launchpad/0x070369F2E3B549154E0cFB86f6135503e88dD863?chain=BSC
+    
     DappRadar: https://dappradar.com/binance-smart-chain/high-risk/space-war-zone
     
     
